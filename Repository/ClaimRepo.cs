@@ -23,6 +23,7 @@ namespace ClaimService.Repository
                 new Claim{Id = 2, Name="rohith", Policy="a123",Claim_amount=15000,Hospital_name="aditya",ContactNo="7032704029"},
                 new Claim{Id = 3, Name="sujana", Policy="a124",Claim_amount=15400,Hospital_name="surya",ContactNo="7032704018"},
                 new Claim{Id = 4, Name="sandeep", Policy="a125",Claim_amount=500000,Hospital_name="vijay",ContactNo="9032704028"},
+                new Claim{Id = 5, Name="sandy", Policy="a325",Claim_amount=505000,Hospital_name="vijayDurga",ContactNo="9232704028"},
             };
         }
         
